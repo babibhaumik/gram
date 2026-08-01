@@ -77,3 +77,4 @@ provider.
 Owner profiles, search/filters, favorites, chat, notifications, image
 uploads, admin dashboard, AI features, and Docker are all later phases —
 see the roadmap. Keeping V1 to just auth + property CRUD is on purpose.
+# gram
