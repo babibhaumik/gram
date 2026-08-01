@@ -10,7 +10,7 @@ app = FastAPI(title="PropertyGram API", version="0.1.0")
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=["https://gram-4-8cgk.onrender.com"],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
